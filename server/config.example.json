@@ -1,0 +1,13 @@
+{
+  "listen_host": "0.0.0.0",
+  "listen_port": 8443,
+  "auth_token": "YOUR_STRONG_SECRET_TOKEN_HERE",
+  "cert_file": "../certs/server.crt",
+  "key_file": "../certs/server.key",
+  "duckdns": {
+    "enabled": false,
+    "domain": "your-subdomain.duckdns.org",
+    "token": "your-duckdns-token",
+    "interval_seconds": 600
+  }
+}

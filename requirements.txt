@@ -1,0 +1,6 @@
+# Core Cryptography & Cert generation
+cryptography>=41.0.0
+
+# Optional GUI System Tray for Windows Server
+pystray>=0.19.5
+pillow>=10.0.0

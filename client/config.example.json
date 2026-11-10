@@ -1,0 +1,10 @@
+{
+  "server_host": "YOUR_SERVER_IP_OR_DYNAMIC_DOMAIN",
+  "server_port": 8443,
+  "auth_token": "YOUR_STRONG_SECRET_TOKEN_HERE",
+  "local_socks_host": "127.0.0.1",
+  "local_socks_port": 1080,
+  "auto_configure_macos_proxy": true,
+  "ca_cert_file": "../certs/server.crt",
+  "verify_ssl": false
+}
